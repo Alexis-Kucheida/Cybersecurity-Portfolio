@@ -17,8 +17,7 @@ Case study of a Denial of Service (DoS) incident where an attacker flooded the n
 - Operational recommendations (monitoring, runbooks, hardening)
 
 ## Artifacts
-- Report (Markdown): `incident-report-icmp-dos-nist-csf.md`
-- Report (PDF): [incident-report-icmp-dos-nist-csf.pdf](./incident-report-icmp-dos-nist-csf.pdf)
+- Report : `incident-report-icmp-dos-nist-csf.md`
 
 ## NIST CSF Mapping (High-level)
 - Identify: Asset inventory, exposure points, risk gaps
