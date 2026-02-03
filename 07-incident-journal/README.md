@@ -1,27 +1,7 @@
-# Project: <Title>
+# Incident Response Journals
 
-## Objective
-What you were trying to achieve (1–2 sentences).
+This section contains incident response documentation written in an Incident Handler’s Journal format (5W’s + notes), based on realistic security incident scenarios.
 
-## Scenario / Context
-Short description of the situation.
+## Activities
 
-## Steps taken
-- Step 1
-- Step 2
-- Step 3
-
-## Evidence
-- Screenshot(s): ![description](../assets/screenshots/<file>.png)
-- Output snippets (redacted if needed)
-
-## Findings / Results
-What you concluded.
-
-## What I learned
-- Bullet 1
-- Bullet 2
-
-## Next improvements
-- Bullet 1
-
+- [Health Care Clinic — Ransomware via Phishing (Case)](health-care-clinic-case/activity-scenario.md) 
