@@ -1,5 +1,4 @@
-# Module 6 — Sound the Alarm: Detection and Response  
-## Activity: Incident Handler’s Journal (Scenario)
+# Activity: Incident Handler’s Journal (Scenario)
 
 ### Overview
 A small U.S. health care clinic experienced a security incident that disrupted operations. This activity focuses on documenting the incident using an incident handler’s journal.
