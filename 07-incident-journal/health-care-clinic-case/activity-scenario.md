@@ -1,7 +1,7 @@
 # Activity: Incident Handler’s Journal (Scenario)
 
-### Overview
-A small U.S. health care clinic experienced a security incident that disrupted operations. This activity focuses on documenting the incident using an incident handler’s journal.
+### Analysis (PDF)
+[Incident Handler Journal — Analysis](Cybersecurity-Portfolio/07-incident-journal/health-care-clinic-case/Incident-handler-journal.pdf)
 
 ---
 
