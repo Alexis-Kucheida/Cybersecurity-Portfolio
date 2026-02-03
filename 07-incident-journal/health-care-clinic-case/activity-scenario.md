@@ -1,7 +1,7 @@
 # Activity: Incident Handler’s Journal (Scenario)
 
 ### Analysis (PDF)
-[Incident Handler Journal — Analysis](07-incident-journal/health-care-clinic-case/Incident-handler-journal.pdf)
+[Incident Handler Journal — Analysis](./health-care-clinic-case/Incident-handler-journal.pdf)
 
 ---
 
