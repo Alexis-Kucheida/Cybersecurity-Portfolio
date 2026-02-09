@@ -14,5 +14,9 @@ In this activity, I built a Python algorithm to maintain an allow list of IP add
 - File handling: `with open(import_file, "r")` and `with open(import_file, "w")`
 - String/list conversion: `.read()`, `.split()`, `"\n".join(...)`
 - Iteration + conditionals: `for element in remove_list:` + `if element in ip_addresses:`
-- List updates: `.remove()` (valid here because the allow list contains no duplicates) 
+- List updates: `.remove()` (valid here because the allow list contains no duplicates)
+
+## Evidence
+- [Algorithm for file updates in Python (PDF)](Algorithm%20for%20file%20updates%20in%20Python.pdf)
+
 
