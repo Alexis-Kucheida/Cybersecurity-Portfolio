@@ -1,4 +1,4 @@
-# Internal Security Audit (Case Study) — Botium Toys
+# Internal Security Audit (Case Study) — Botium Toys 
 
 ## Objective
 Conduct an internal IT security audit based on a fictional company scenario to assess risk, evaluate existing controls, and identify compliance gaps related to PCI DSS, GDPR, and SOC-style controls.
