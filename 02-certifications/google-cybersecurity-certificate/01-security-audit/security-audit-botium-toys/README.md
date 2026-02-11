@@ -69,7 +69,7 @@ I mapped the situation to common compliance expectations:
 
 ## Evidence / Deliverables
 - Completed checklist: [controls-and-compliance-checklist.pdf](./controls-and-compliance-checklist.pdf)
-- Source scenario notes: [scope-goals-risk-assessment.pdf](./scope-goals-risk-assessment.pdf)
+- Source scenario notes: [scope-goals-risk-assessment.pdf](./scope-goals-risk.assessment.pdf)
 
 ## What I Learned
 - How to think with an audit mindset (controls, gaps, risk).
