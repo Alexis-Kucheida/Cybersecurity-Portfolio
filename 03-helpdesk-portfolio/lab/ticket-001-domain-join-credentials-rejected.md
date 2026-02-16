@@ -108,4 +108,4 @@ Additional verification on Windows 11:
 ---
 
 ## References
-- Runbook: [01-initial-setup-domain-lab.md](./01-initial-setup-domain-lab.md)
+- Runbook: [01-initial-setup-domain-lab.md](03-helpdesk-portfolio/lab/01-initial-setup-domain-lab.md)
