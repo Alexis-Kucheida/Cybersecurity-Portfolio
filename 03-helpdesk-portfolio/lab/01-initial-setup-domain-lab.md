@@ -91,7 +91,7 @@
 - `net user` = lists local users on the machine
 - `net user helpdesk /domain` = shows domain user details
 
-**Correction**
+**AI Correction**
 - `net user` does not show “shared drives”. For shares I would use `net share` (system-level shares) or check group membership and file share permissions separately.
 
 ---
