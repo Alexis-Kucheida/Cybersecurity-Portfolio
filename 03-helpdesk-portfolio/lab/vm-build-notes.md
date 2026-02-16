@@ -52,7 +52,4 @@ This lab supports Helpdesk practice (Windows troubleshooting + basic AD/domain w
   - After domain join (future)
   - After GPO testing (future)
 
-## Evidence
-Add a screenshot of VirtualBox VM summary here:
-- `lab/screenshots/virtualbox-windows11-summary.png`
 
