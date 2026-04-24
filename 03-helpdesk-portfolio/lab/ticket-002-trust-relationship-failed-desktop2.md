@@ -1,7 +1,7 @@
 # Ticket 002 — Trust Relationship Failed (Desktop2 / Patty)
 
 ## Ticket metadata
-- **Date:** YYYY-MM-DD  
+- **Date:** 24/02/206  
 - **Category:** Active Directory / Windows Client / Authentication  
 - **Priority:** High (user cannot log in)  
 - **Environment:** VirtualBox lab (Server 2025 DC + Desktop1 + Desktop2)  
