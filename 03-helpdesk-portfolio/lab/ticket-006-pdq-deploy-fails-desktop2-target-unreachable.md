@@ -121,4 +121,4 @@ On Server2025 in PDQ Deploy:
 ---
 
 ## References
-- Runbook: 07-pdq-deploy-and-inventory-software-deployment.md
+- Runbook: 06-software-deployment-pdq-deploy-pdq-inventory.md
